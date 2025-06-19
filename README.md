@@ -14,8 +14,8 @@ Founder @ [Developers-of-development](https://github.com/Developers-of-developme
 
 ## 📂 Project Structure
 
-vector.py
-└── class vector
+**vector.py**
+<pre>└── class vector
 ├── init() # Initialize vector with list
 ├── push_back() # Add value at end
 ├── pop_back() # Remove last element
@@ -25,7 +25,7 @@ vector.py
 ├── at() # Access by index
 ├── ease() # Remove specific value
 ├── In() # Find value's index
-└── show() # Display vector content
+└── show() # Display vector content</pre>
 
 
 ---
