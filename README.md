@@ -11,6 +11,17 @@ Founder @ [Developers-of-development](https://github.com/Developers-of-developme
 📌 *“Code not for syntax, but for structure and soul!”*
 
 ---
+##Fro Downloading this module
+```bash
+pip install pyvectors9
+```
+
+or
+```bash
+pip3 install pyvectors9
+```
+
+---
 
 ## 📂 Project Structure
 
