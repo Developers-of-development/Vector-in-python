@@ -9,20 +9,6 @@ Class 9 | Python & C++ Developer | AI-ML Aspirant
 Founder @ [Developers-of-development](https://github.com/Developers-of-development)  
 
 📌 *“Code not for syntax, but for structure and soul!”*
-
----
-
-*For Downloading this module*
-
-```bash
-pip install pyvectors9
-```
-
-or
-```bash
-pip3 install pyvectors9
-```
-
 ---
 
 ## 📂 Project Structure
