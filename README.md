@@ -5,7 +5,7 @@ A custom-built vector class in Python that replicates features of C++ STL Vector
 ## 👨‍💻 Author
 
 **Rustam Singh Bhadouriya**  
-Class 9 | Python & C++ Developer | AI-ML Aspirant  
+| Python & C++ Developer | AI-ML Aspirant  
 Founder @ [Developers-of-development](https://github.com/Developers-of-development)  
 
 📌 *“Code not for syntax, but for structure and soul!”*
